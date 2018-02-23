@@ -16,9 +16,16 @@
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
+@import "font-awesome-sprockets";
+@import "font-awesome";
 
 
 html, body {
   background-color: lightgray;
 }
 
+.footer {
+  height: 40px;
+  background-color: gray;
+  text-align: center;
+}
